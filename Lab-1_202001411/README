@@ -1,1 +1,45 @@
+IT314-Software Engineering Lab-1
+
+Identifying Functional and Non-Functional Requirements:
+
+Question1. Identify FRs and NFRs:
+
+Functional requirements: 
+1) Students and Employees can easily borrow or return a book.
+2) Also Students and Employees will get to return to the same desk on which they were sitting.
+3) Research Facilities are provided to all members so that people can work on various projects.
+4) The system also enables a member to extend the date of his borrowing if no other booking for that particular book has been made.
+5) library Staff can handle day to day book transactions
+6) The librarian can who has administrative advantage can enter or remove a record
+7) Any non-member is free to browse books online
+
+
+Non Functional requirements:
+1) The final web application must only run with institute LAN.
+2) No confidential information(passwords) should be saved in a plain text
+3) Only members(valid users) of the system must be able to issue or return books. 
+4) User can extend date if no other booking is there.
+5) 
+
+
+Question 2. Identify scope, features and non-functional aspects of the following problem.
+
+Scope: The scope of this problem is to create a mobile application which provide solution to the people who have hearing loss. 
+	There are 466 million people who have hearing loss.
+
+Features:
+Artificial Intelligence-based sound recognition
+User gets alerts for sound events like car horns, babies
+Continual logging of sound events
+Optimized for Android with low latency.
+
+Non-Functional aspects:
+Performance: Low latency for real-time use
+Security: Safe storage of user information
+Compatibility: Works on Android devices
+Accessibility: Optimized for people who have hearing loss.
+reusability: People can use this application multiple times.
+
+
+
 
