@@ -19,7 +19,6 @@ Non Functional requirements:
 2) No confidential information(passwords) should be saved in a plain text
 3) Only members(valid users) of the system must be able to issue or return books. 
 4) User can extend date if no other booking is there.
-5) 
 
 
 Question 2. Identify scope, features and non-functional aspects of the following problem.
